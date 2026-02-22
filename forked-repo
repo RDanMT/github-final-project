@@ -1,0 +1,19 @@
+{
+  "name": "Coursera",
+  "full_name": "RDanMT/Coursera",
+  "private": false,
+  "fork": true,
+  "url": "https://api.github.com/repos/RDanMT/Coursera",
+  "parent": {
+    "id": 123456789,
+    "name": "vsqht-Simple-Interest-Calculator",
+    "full_name": "ibm-developer-skills-network/vsqht-Simple-Interest-Calculator",
+    "html_url": "https://github.com/ibm-developer-skills-network/vsqht-Simple-Interest-Calculator"
+  },
+  "source": {
+    "id": 123456789,
+    "name": "vsqht-Simple-Interest-Calculator",
+    "full_name": "ibm-developer-skills-network/vsqht-Simple-Interest-Calculator",
+    "html_url": "https://github.com/ibm-developer-skills-network/vsqht-Simple-Interest-Calculator"
+  }
+}
