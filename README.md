@@ -1,29 +1,41 @@
-# 🧮 Simple Interest Calculator
+🧮 Simple Interest Calculator
+This is a straightforward web development project that allows users to calculate the simple interest of a loan or investment based on the initial principal, interest rate, and time period.
 
-Este es un proyecto sencillo de desarrollo web que permite calcular el interés simple de un préstamo o inversión basándose en el capital inicial, la tasa de interés y el tiempo.
+🚀 Features
+Instant interest calculation.
 
-## 🚀 Funcionalidades
-* Cálculo instantáneo de intereses.
-* Interfaz amigable y responsiva.
-* Validación de datos de entrada.
+User-friendly and responsive interface.
 
-## 📈 Lógica Matemática
-La aplicación utiliza la fórmula estándar de interés simple:
+Input data validation.
 
-$$I = \frac{P \cdot R \cdot T}{100}$$
+📈 Mathematical Logic
+The application uses the standard simple interest formula:
 
-Donde:
-- **P** (Principal): El monto inicial.
-- **R** (Rate): La tasa de interés anual.
-- **T** (Time): El tiempo en años.
+I= 
+100
+P⋅R⋅T
+​
+ 
+Where:
 
-## 🛠️ Tecnologías utilizadas
-* **HTML5**: Estructura del sitio.
-* **CSS3**: Estilos y diseño.
-* **JavaScript**: Lógica de cálculo.
+P (Principal): The initial amount.
 
-## 📝 Ejemplo de Uso
-1. Ingresa el monto (ej. 1000).
-2. Define la tasa de interés (ej. 5%).
-3. Selecciona el periodo de tiempo.
-4. Haz clic en "Calcular" para ver el resultado total.
+R (Rate): The annual interest rate.
+
+T (Time): The time period in years.
+
+🛠️ Technologies Used
+HTML5: Site structure.
+
+CSS3: Styling and design.
+
+JavaScript: Calculation logic.
+
+📝 How to Use
+Enter the principal amount (e.g., 1000).
+
+Define the interest rate (e.g., 5%).
+
+Select the time period.
+
+Click "Calculate" to see the total result.
