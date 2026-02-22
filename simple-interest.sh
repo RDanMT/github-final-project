@@ -1,27 +1,28 @@
 #!/bin/bash
-# Este script calcula el interés simple dado el capital,
-# la tasa de interés anual y el período de tiempo en años.
+# This script calculates simple interest given principal,
+# annual rate of interest and time period in years.
 
-# No uses esto en producción. Solo para fines de ejemplo.
+# Do not use this in production. Sample purpose only.
 
-# Autor: Upstream (IBM Skills Network)
-# Autores adicionales: [Tu Nombre]
+# Author: Your Name
+# Additional Authors:
+# <your GitHub username>
 
-# Entrada:
-# p, monto del capital
-# t, período de tiempo en años
-# r, tasa de interés anual
+# Input:
+# p, principal amount
+# t, time period in years
+# r, annual rate of interest
 
-# Salida:
-# interés simple = p*t*r
+# Output:
+# simple interest = p*t*r
 
-echo "Introduce el capital:"
+echo "Enter the principal:"
 read p
-echo "Introduce la tasa de interés por año:"
+echo "Enter the rate of interest per year:"
 read r
-echo "Introduce el período de tiempo en años:"
+echo "Enter the time period in years:"
 read t
 
 s=`expr $p \* $t \* $r / 100`
-echo "El interés simple es: "
+echo "The simple interest is: "
 echo $s
