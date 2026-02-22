@@ -1,9 +1,9 @@
 {
-  "name": "Coursera",
-  "full_name": "RDanMT/Coursera",
+  "name": "github-final-project",
+  "full_name": "RDanMT/github-final-project",
   "private": false,
   "fork": true,
-  "url": "https://api.github.com/repos/RDanMT/Coursera",
+  "url": "https://api.github.com/repos/RDanMT/github-final-project",
   "parent": {
     "id": 123456789,
     "name": "vsqht-Simple-Interest-Calculator",
