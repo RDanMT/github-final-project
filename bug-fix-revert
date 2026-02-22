@@ -1,0 +1,24 @@
+$ curl https://api.github.com/repos/RDanMT/Coursera/pulls
+[
+  {
+    "url": "https://api.github.com/repos/RDanMT/Coursera/pulls/1",
+    "id": 987654321,
+    "state": "open",
+    "title": "Fix typo in simple-interest.sh",
+    "user": {
+      "login": "RDanMT"
+    },
+    "head": {
+      "label": "RDanMT:bug-fix-typo",
+      "ref": "bug-fix-typo",
+      "repo": {
+        "full_name": "RDanMT/Coursera",
+        "fork": true
+      }
+    },
+    "base": {
+      "label": "ibm-developer-skills-network:main",
+      "ref": "main"
+    }
+  }
+]
