@@ -1,41 +1,23 @@
-🧮 Simple Interest Calculator
-This is a straightforward web development project that allows users to calculate the simple interest of a loan or investment based on the initial principal, interest rate, and time period.
+# Simple Interest Calculator
 
-🚀 Features
-Instant interest calculation.
+A simple command-line application (or script) that calculates the interest earned or paid over a specific period.
 
-User-friendly and responsive interface.
+## Formula
+The calculator uses the standard simple interest formula:
+$A = P(1 + rt)$
 
-Input data validation.
-
-📈 Mathematical Logic
-The application uses the standard simple interest formula:
-
-I= 
-100
-P⋅R⋅T
-​
- 
 Where:
+* **P** = Principal amount (the initial deposit or loan amount)
+* **r** = Annual interest rate (decimal)
+* **t** = Time the money is invested or borrowed for (years)
 
-P (Principal): The initial amount.
+## How to Use
+1. Enter the **Principal** amount.
+2. Enter the **Annual Interest Rate** (e.g., 5 for 5%).
+3. Enter the **Time** in years.
+4. The system will output the total interest and the final balance.
 
-R (Rate): The annual interest rate.
-
-T (Time): The time period in years.
-
-🛠️ Technologies Used
-HTML5: Site structure.
-
-CSS3: Styling and design.
-
-JavaScript: Calculation logic.
-
-📝 How to Use
-Enter the principal amount (e.g., 1000).
-
-Define the interest rate (e.g., 5%).
-
-Select the time period.
-
-Click "Calculate" to see the total result.
+## Features
+- Fast and accurate calculations.
+- Easy-to-read output.
+- Support for decimal interest rates.
