@@ -1,19 +1,20 @@
 {
-  "name": "github-final-project",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
   "full_name": "RDanMT/github-final-project",
+  "owner": {
+    "login": "RDanMT"
+  },
   "private": false,
+  "html_url": "https://github.com/RDanMT/github-final-project",
+  "description": "Introduction to Git and GitHub",
   "fork": true,
   "url": "https://api.github.com/repos/RDanMT/github-final-project",
   "parent": {
-    "id": 123456789,
-    "name": "vsqht-Simple-Interest-Calculator",
-    "full_name": "ibm-developer-skills-network/vsqht-Simple-Interest-Calculator",
-    "html_url": "https://github.com/ibm-developer-skills-network/vsqht-Simple-Interest-Calculator"
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
   },
   "source": {
-    "id": 123456789,
-    "name": "vsqht-Simple-Interest-Calculator",
-    "full_name": "ibm-developer-skills-network/vsqht-Simple-Interest-Calculator",
-    "html_url": "https://github.com/ibm-developer-skills-network/vsqht-Simple-Interest-Calculator"
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
   }
 }
