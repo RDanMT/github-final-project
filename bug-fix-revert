@@ -1,7 +1,7 @@
-$ curl https://api.github.com/repos/RDanMT/Coursera/pulls
+$ curl https://api.github.com/repos/RDanMT/github-final-project/pulls
 [
   {
-    "url": "https://api.github.com/repos/RDanMT/Coursera/pulls/1",
+    "url": "https://api.github.com/repos/RDanMT/github-final-project/pulls/1",
     "id": 987654321,
     "state": "open",
     "title": "Fix typo in simple-interest.sh",
@@ -12,7 +12,7 @@ $ curl https://api.github.com/repos/RDanMT/Coursera/pulls
       "label": "RDanMT:bug-fix-typo",
       "ref": "bug-fix-typo",
       "repo": {
-        "full_name": "RDanMT/Coursera",
+        "full_name": "RDanMT/github-final-project",
         "fork": true
       }
     },
