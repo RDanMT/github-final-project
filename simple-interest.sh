@@ -4,9 +4,9 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Your Name
+# Author: Dani Torillo
 # Additional Authors:
-# <your GitHub username>
+# <RDanMT>
 
 # Input:
 # p, principal amount
